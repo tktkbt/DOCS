@@ -8,7 +8,7 @@ Database    DB Id    Instance     Inst Num  Startup Time   Release     RAC
 
 Host Name             Platform                CPUs Cores Sockets   Memory (G)
 ~~~~ ---------------- ---------------------- ----- ----- ------- ------------
-     zt0ora01         AIX-Based Systems (64-     4     1       0         50.0
+     ********         AIX-Based Systems (64-     4     1       0         50.0
 
 Snapshot       Snap Id     Snap Time      Sessions Curs/Sess Comment
 ~~~~~~~~    ---------- ------------------ -------- --------- ------------------
